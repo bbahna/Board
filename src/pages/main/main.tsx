@@ -1,12 +1,8 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import './main.scss';
 import Template from '../../component/template/template';
 
 function MainPage() {
-  // Modal-button Click시, State 변경
-  const [ModalShow, setModalShow] = useState(true);
-  const toggleModalShow = () => setModalShow(!ModalShow);
-
   return (
     <div id='main-wrap'>
       <Template>

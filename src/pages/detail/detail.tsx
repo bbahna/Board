@@ -1,14 +1,13 @@
-import React from 'react';
-import './sub.scss';
+import './detail.scss';
 import Template from '../../component/template/template';
 
-function SubPage() {
+function DetailPage() {
   return (
-    <div id='sub-wrap'>
+    <div id='detail-wrap'>
       <Template>
         <body>
           <section>
-            2. 서브 페이지<br/>
+            2. 디테일 페이지<br/>
             - 게시판 글 작성
           </section>
         </body>
@@ -17,4 +16,4 @@ function SubPage() {
   );
 }
 
-export default SubPage;
+export default DetailPage;
