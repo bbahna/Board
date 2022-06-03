@@ -1,4 +1,4 @@
 ## Board
 
-node.js CRUD project<br/>
+node.js CRUD study<br/>
 *(be scheduled update)*
