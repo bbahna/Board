@@ -1,4 +1,4 @@
 ## Board
 
-CRUD project<br/>
+node.js CRUD project<br/>
 *(be scheduled update)*
